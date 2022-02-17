@@ -1,0 +1,168 @@
+body
+{
+    font-family: 'Cairo', sans-serif;
+}
+.navbar img
+{
+    width: 12%;
+}
+.navbar-toggler
+{
+    border: none;
+}
+.navbar-toggler-icon 
+{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(59, 173, 230)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+}
+.nav-item
+{text-align: left}
+
+#header .col2 
+{
+background-image: url("../imgs/header-side.jpg");
+background-size: 50%;
+background-repeat:no-repeat ;
+}
+#header .col2 h1
+{position: relative;
+top: 70px;}
+.layer
+{
+    border-radius: 20px;
+}
+.container2
+{
+    background-image: url("../imgs/bg30-Ar1web.gif");
+}
+#sec3
+{
+background-image: url("../imgs/we-offer.png");
+background-image: contain;
+height: 700px;
+}
+#sec4 img
+{
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+#sec4  button
+{
+    border-radius: 60px;
+}
+#sec5
+{
+    background-image: url("../imgs/our-client-bg.jpg");
+}
+.verticalline
+{width: 0px;
+    height: 50px;
+    border: solid 2px #3aade6;
+}
+.hrline
+{
+    width: 50px;
+    height: 0px;
+    border: solid 2px #3aade6;
+}
+footer
+{
+    background-image: url("../imgs/footer.jpg");
+    height: 400px;
+    background-size: 100% 100%;
+}
+
+#sec3 .container .row
+{
+    height: 300px;
+}
+#sec3 .container .row .layer
+{
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+#sec3 h6
+{
+    color: #3aade6;
+}
+footer h6
+{
+    position: relative;
+    right: 100px;
+}
+footer .icons
+{
+    background-color: aqua;
+}
+.footer .logo
+{
+    position: relative;
+    top: -100px;
+}
+/*footer .container
+{
+    height: 100%;
+}*/
+#ourservices
+{  
+    /* height: 600px; */
+   background-color: #eaeaea; 
+}
+
+#ourservices .layer,#artticles .layer
+{
+    background-color: white;
+    width: 95%;
+    border-radius: 25px;
+}
+#ourservices .layer img
+{
+    border-radius: 25px;
+}
+#artticles .container-fluid
+{
+    background-image: url("../imgs/articles.jpg");
+    background-repeat:no-repeat ;
+}
+#wanapp .owl-nav 
+{
+    position: relative;
+}
+
+#wanapp .owl-carousel #img1
+{
+position: absolute;
+z-index: 555555555555;
+}
+#wanapp .owl-carousel #img2
+{
+    position: relative;
+    right: -10px;
+}
+#wanapp .owl-carousel #img3
+ {
+position: relative;
+right: 10px;}
+#microsoftupdate 
+{
+    background-color: #ebebeb;
+}
+
+#microsoftupdate .w-75
+{
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+#microsoftupdate img
+{
+    border-radius: 10px;
+}
+.lorem
+{
+    background-image: url("../imgs/details-bg.png");
+}
+
+footer .col-6 
+{
+    /* height: 200px; */
+}
